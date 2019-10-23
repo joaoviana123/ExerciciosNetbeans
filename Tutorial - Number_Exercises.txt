@@ -1,0 +1,57 @@
+
+Exercício executado com uso da calculadora do Windows
+
+Exercício 1.9 
+
+1)
+
+a) Decimal (108) --> Binary (0110 1100)
+	    Hexadeciamal (6C)
+
+b) Decimal (4848) --> Binary (0001 0010 1111 0000)
+	    Hexadeciaml (12F0)
+
+c) Decimal (9000) --> Binary (0010 0011 0010 1000)
+	    Hexadeciaml (2328)
+
+2)
+
+a) Binário (1000011000) --> Hexadecimal (218)
+		  Decimal (536)
+
+b) Binário (10000000) --> Hexadecimal (80)
+		Decimal (128)
+
+c) Binário (101010101010) --> Hexadecimal (AAA)
+		    Decimal (2730)
+
+3)
+
+a) Hexadecimal (ABCDE) --> Binary (1010 1011 1100 1101 1110)
+	     Decimal (703710)
+
+b) Hexadecimal (1234) --> Binary (0001 0010 0011 0100)
+	    Decimal (4660)
+
+c) Hexadecimal (80F) --> Binary (1000 0000 1111)
+	   Decimal (2063)
+
+4)
+
+a) Decimal (19.25D) --> Binary (10011B)
+
+19/2 = (Quociente) 9_(Resto) 1
+9/2 = (Quociente) 4_(Resto) 1
+4/2 = (Quociente) 2_(Resto) 0
+2/2 = (Quociente) 1_(Resto) 0
+1/2 = (Quociente) 0_(Resto) 1
+
+b) Decimal (123.456D) --> Binary (1111011B)
+
+123/2 = (Quociente) 61_(Resto) 1
+61/2 = (Quociente) 0_(Resto) 1
+30/2 = (Quociente) 15_(Resto) 0
+15/2 = (Quociente) 7_(Resto) 1
+7/2 = (Quociente) 3_(Resto) 1
+3/2 = (Quociente) 1_(Resto) 1
+1/2 = (Quociente) 0_(Resto) 1
